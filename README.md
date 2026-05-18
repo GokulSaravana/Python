@@ -1,4 +1,4 @@
-# Python Data Analysis Portfolio
+# Python Portfolio
 
 This repository contains my hands-on learning, mini-projects, and practice work while learning Python and data analysis.
 
